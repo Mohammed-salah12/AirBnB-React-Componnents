@@ -1,0 +1,70 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+div.CardContainerDiv {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 400px;
+    margin: auto;
+    gap: 20px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+div.card {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 500px;
+
+}
+
+div.card img {
+    width: 250px;
+}
+
+div.rateAndPlace {
+    transform: translate(0, -10px);
+}
+
+span.place {
+    padding-left: 15px;
+    color: #918E9B;
+    font-size: 12px;
+}
+
+button.status {
+    width: 80px;
+    transform: translate(22%, -1650%);
+    background-color: #fff;
+    color: #222222;
+}
+
+span.price {
+    font-size: 13px;
+    color: #222222;
+    font-weight: 1000;
+    font-family: 'Poppins';
+}
+
+span.price {
+    font-size: 13px;
+    color: #222222;
+    font-weight: 1000;
+    font-family: 'Poppins';
+}
+
+span.job {
+    color: #918E9B;
+}
+
+p.name {
+    color: #222222;
+    font-size: 12px;
+
+}

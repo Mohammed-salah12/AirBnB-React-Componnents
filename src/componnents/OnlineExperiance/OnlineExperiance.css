@@ -1,0 +1,26 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+div.OnlineExperianceContianerDiv {
+    width: 100%;
+    height: 300px;
+}
+
+div.handeler {
+    font-family: 'Poppins';
+    margin: 100px 0 20px 170px;
+    font-size: 25px;
+}
+
+div.contnetDiv {
+    width: 480px;
+
+}
+
+div.contnetDiv p {
+    color: #222222;
+
+}
